@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba>
+    <PunoIme>
+        <Ime>Vladimir</Ime>
+        <SrednjeIme>Milos</SrednjeIme>
+        <Prezime>Lazic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+        <Dan>19</Dan>
+        <Mesec>Avgust</Mesec>
+        <Godina>1994</Godina>
+    </DatumRodjenja>
+    <Adresa tip = "Privremena">Grge Andrijanovica 31A</Adresa>
+    <Email tip = "Privatni">lazic.vl@gmail.com</Email>
+</Osoba>
